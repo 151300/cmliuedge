@@ -8,4 +8,5 @@ edgetunnel参考cmliu大佬的项目并混淆
 4,ADDAPI - 优选IP的API地址(支持多元素之间,或 换行 作间隔)
 5,ADDCSV - iptest测速结果(支持多元素, 元素之间使用,作间隔)
 6,SUB - 优选订阅生成器域名
+7,zzzz
 7,SUBAPI - clash、singbox等 订阅转换后端,例SUBAPI.cmliussss.net
